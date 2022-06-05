@@ -1,1 +1,1 @@
-# Machine_Learning It contains the assignments realted to machine learning algorithm during study.
+It contains the assignments which was performed during the study of Master.
